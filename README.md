@@ -1,1 +1,3 @@
-# english-for-designers
+# English for deisgners
+
+Work-in-progress classwork.
