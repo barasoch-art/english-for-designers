@@ -5,6 +5,8 @@ description: "Simple project showing cute felt shapes and basic embroidery. Grea
 image: "letter.png"
 ---
 
+[design](../README.md)
+
 # Alt Text
 
 Some other text I wrote.
