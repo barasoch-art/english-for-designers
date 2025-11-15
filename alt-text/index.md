@@ -5,7 +5,7 @@ description: "Simple project showing cute felt shapes and basic embroidery. Grea
 image: "letter.png"
 ---
 
-[design](../README.md)
+[⬅️ go back](../README.md)
 
 # Alt Text
 
