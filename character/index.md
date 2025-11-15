@@ -7,6 +7,6 @@ image: "letter.png"
 
 [⬅️ go back](../README.md)
 
-# Character
+# Character 🩵
 
 
