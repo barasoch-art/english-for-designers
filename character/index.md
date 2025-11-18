@@ -13,7 +13,7 @@ For our first class exercise, we had to create a stylized letter. I wanted to ma
 
 I made the letter from a fabric called felt. First, I printed a paper template and traced it onto the fabric twice. Then I added patterns and stitched small details onto the front piece. After that, I sewed the two parts together and filled the inside with stuffing. Finally, I sewed on a fabric loop and added a key ring. I decorated it with charms. Then I clipped on a red hook so it can be attached to a bag or to keys.
 
-It turned into a great little gift, and my sister was thrilled with it.
+It turned into a great little gift, and my sister was thrilled with it. ❤️
 
 ![Light blue felt letter "E" with stitched strawberry, butterfly and floral details.](keychain.png)
 
