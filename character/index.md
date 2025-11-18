@@ -15,6 +15,6 @@ I made the letter from a fabric called felt. First, I printed a paper template a
 
 It turned into a great little gift, and my sister was thrilled with it. ❤️
 
-<img alt="Chunky blue fabric letter E decorated with a strawberry, leaves, a white butterfly, and embroidered stars." src="keychain.png" width="300">
+<img alt="Chunky blue fabric letter E decorated with a strawberry, leaves, a white butterfly, and embroidered stars." src="keychain.png" width="300" align="center">
 
 
