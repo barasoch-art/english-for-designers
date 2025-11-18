@@ -15,6 +15,6 @@ I made the letter from a fabric called felt. First, I printed a paper template a
 
 It turned into a great little gift, and my sister was thrilled with it.
 
-! (Light blue felt letter "E" with stitched strawberry, butterfly and floral details.)[keychain.png]
+! [Light blue felt letter "E" with stitched strawberry, butterfly and floral details.](keychain.png)
 
 
