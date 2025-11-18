@@ -9,4 +9,4 @@ image: "letter.png"
 
 # Alt Text
 
-<img src="letter_nobg.png" width="300">
+<img alt="Chunky blue fabric letter E decorated with a strawberry, leaves, a white butterfly, and embroidered stars." src="letter_nobg.png" width="300">
