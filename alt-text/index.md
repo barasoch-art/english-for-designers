@@ -9,4 +9,4 @@ image: "letter.png"
 
 # Alt Text
 
-Some other text I wrote.
+![Chunky blue fabric letter E decorated with a strawberry, leaves, a white butterfly, and embroidered stars. ](letter.png)
