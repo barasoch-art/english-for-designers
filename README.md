@@ -1,14 +1,24 @@
-# English for designers 💆‍♀️ 
+English for designers
 
-Welcome to the main page of my project for the subject *English for Designers*.
+---
 
-My name is Bára Sochorová and I am a graphic-motion-game designer.
+### Hey! 🖐️
+My name is Bára Sochorová and I love to do everything and nothing at the same time! Sounds weird? Well… it is, but that’s just who I am. ⭐
+
+I’m a primarly graphic designer, but I love to explore new things! One day I animate, the next I try game design, and sometimes I convince myself I can code.
+
+> I crave chaos and curiosity!
+
+But sometimes it’s not about what I can do — it’s about what we can create together. Let’s turn ideas and dreams into reality. 💫
+
 Here you can explore my portfolio — enjoy! 🧚‍♀️
 
-[Click here and see the magic 💫](https://sochorova.myportfolio.com/)
+[Let’s see the magic 💫](https://sochorova.myportfolio.com/)
 
-> “I will keep on making my art until the day I die, and even after I die, my spirit will keep creating new art.” - *Yayoi Kusama*
+---
 
-## Homeworks
+## 🍎 Homeworks 
 - [Character](character/index.md)
 - [Alt text](alt-text/index.md)
+- [Self presentation](presentation/index.md)
+- [Hand shake](hand-shake/index.md)
