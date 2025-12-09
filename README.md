@@ -1,8 +1,5 @@
-English for designers
 
----
-
-### Hey! 🖐️
+## Hey! 🖐️
 My name is Bára Sochorová and I love to do everything and nothing at the same time! Sounds weird? Well… it is, but that’s just who I am. ⭐
 
 I’m a primarly graphic designer, but I love to explore new things! One day I animate, the next I try game design, and sometimes I convince myself I can code.
@@ -20,5 +17,5 @@ Here you can explore my portfolio — enjoy! 🧚‍♀️
 ## 🍎 Homeworks 
 - [Character](character/index.md)
 - [Alt text](alt-text/index.md)
-- [Self presentation](presentation/index.md)
+- [Self presentation](self-presentation/index.md)
 - [Hand shake](hand-shake/index.md)
