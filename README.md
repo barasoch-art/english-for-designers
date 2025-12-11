@@ -6,7 +6,7 @@ I’m a primarly graphic designer, but I love to explore new things! One day I a
 
 > I crave chaos and curiosity!
 
-But sometimes it’s not about what I can do — it’s about what we can create together. Let’s turn ideas and dreams into reality. 💫
+But sometimes it’s not about what I can do — it’s about what we can create together.💫
 
 Here you can explore my portfolio — enjoy! 🧚‍♀️
 
