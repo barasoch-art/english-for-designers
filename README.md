@@ -19,4 +19,4 @@ Here you can explore my portfolio — enjoy! 🧚‍♀️
 - [HW 2: Alt text](alt-text/index.md)
 - [HW 3: Self presentation](self-presentation/index.md)
 - [HW 4: Business Card](card/index.md)
-- [HW 5: Hand shake](hand-shake/index.md)
+- [HW 5: First Impressions](hand-shake/index.md)
