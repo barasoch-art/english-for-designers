@@ -4,6 +4,7 @@ title: "English for Designers | Bára Sochorová"
 description: "My name is Bára Sochorová and I love to do everything and nothing at the same time! ⭐"
 image: 
 ---
+
 ## Hey! 🖐️
 My name is Bára Sochorová and I love to do everything and nothing at the same time! Sounds weird? Well… it is, but that’s just who I am ⭐
 
