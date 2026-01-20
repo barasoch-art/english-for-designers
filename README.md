@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "English for Designers | Bára Sochorová"
+title: "English for Designers"
 description: "My name is Bára Sochorová and I love to do everything and nothing at the same time! ⭐"
 image: 
 ---
