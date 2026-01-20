@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: _layouts/default
 title: "English for designers"
 description: "My name is Bára Sochorová and I love to do everything and nothing at the same time! ⭐"
 image:
