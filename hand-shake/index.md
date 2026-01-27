@@ -28,4 +28,6 @@ Right now, I focus on UX/UI and I’m taking a game design course. I like creati
 
 For me, design is a playground. A place to test ideas, make mistakes, and learn new things. In the future, I want to work on projects that make people feel something! 👽
 
+<img alt="" src="me.jpg" width="300">
+
 
