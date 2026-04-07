@@ -14,9 +14,15 @@ Here you can explore my portfolio — enjoy! 🧚‍♀️
 
 ---
 
-## 🍎 Homeworks 
+## 🍎 Homeworks - winter
 - [HW 1: Character](character/index.md)
 - [HW 2: Alt text](alt-text/index.md)
 - [HW 3: Self presentation](self-presentation/index.md)
 - [HW 4: Business Card](card/index.md)
 - [HW 5: First Impressions](hand-shake/index.md)
+
+---
+
+## 🍎 Homeworks - summer
+- [HW 1: What I learn today...](what/index.md)
+- [HW 2: Case study](case/index.md)
