@@ -1,6 +1,13 @@
-# 🎨 Van Gogh Museum – Website Design Case Study
 
-## 🟡 Project Overview
+## Hey! 🖐️
+My name is Bára Sochorová and I love to do everything and nothing at the same time! Sounds weird? Well… it is, but that’s just who I am ⭐
 
-This project focuses on designing a modern website for a fictional Van Gogh Museum.
-The goal was to create an engaging digital experience that presents Vincent van Gogh’s life and artwork in a clear, emotional, and accessible way.
+I’m a primarly graphic designer, but I love to explore new things! One day I animate, the next I try game design, and sometimes I convince myself I can code.
+
+> I crave chaos and curiosity!
+
+But sometimes it’s not about what I can do — it’s about what we can create together.💫
+
+Here you can explore my portfolio — enjoy! 🧚‍♀️
+
+[Let’s see the magic 💫](https://sochorova.myportfolio.com/)
