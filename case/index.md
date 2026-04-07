@@ -1,6 +1,5 @@
 # 🎨 Van Gogh Museum – Website Design Case Study
 
----
 
 ## 🟡 Project Overview
 
@@ -166,18 +165,3 @@ I also improved my ability to structure content and design with intention rather
 
 This project helped me understand the importance of storytelling in design and how every visual decision should support the overall concept.
 
----
-
-## 🔗 Live Preview
-
-[View Project](#)
-
----
-
-## 📁 Tools
-
-* Figma
-* Adobe Photoshop
-* Illustrator
-
----
