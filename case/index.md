@@ -1,5 +1,7 @@
 # 🎨 Van Gogh Museum – Website Design Case Study
 
+![photo](./images/photo.png)
+
 ## 🟡 Project Overview
 
 This project is a design of a modern website for a fictional Van Gogh Museum.
