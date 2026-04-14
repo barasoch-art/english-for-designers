@@ -1,32 +1,33 @@
 # 🎨 Van Gogh Museum – Website Design Case Study
 
----
-
 ## 🟡 Project Overview
 
-This project focuses on designing a modern website for a fictional Van Gogh Museum.
-The goal was to create an engaging digital experience that presents Vincent van Gogh’s life and artwork in a clear, emotional, and accessible way.
+This project is a design of a modern website for a fictional Van Gogh Museum.
+The goal was to create a clear and engaging experience that shows Vincent van Gogh’s life and work.
 
----
+The website helps users explore artworks, exhibitions, and key information in a simple and intuitive way.
 
 ## 🔴 Problem
 
-Many museum websites feel overwhelming, outdated, or difficult to navigate.
-Visitors often struggle to quickly find key information such as exhibitions, artist background, or ticket options.
+Many museum websites are hard to use.
+They often feel messy, outdated, or too complex.
 
-The challenge was to design a website that is visually rich while remaining simple, structured, and user-friendly.
+Users can struggle to:
 
----
+* find important information
+* understand the structure
+* stay engaged with the content
+
+These websites also often fail to reflect the emotion and value of the artwork.
 
 ## 🟢 Goal
 
-The goal was to create a visually engaging and intuitive interface that:
+The goal was to create a website that:
 
-* clearly communicates information
+* is easy to navigate
+* looks clean and modern
 * highlights artwork without distraction
 * guides users naturally through the content
-
----
 
 ## 🔵 My Role
 
@@ -41,53 +42,46 @@ UI/UX Designer
 
 ## 🔍 Research & Inspiration
 
-I analyzed existing museum websites and collected references focused on:
+I looked at different museum websites to understand how they work.
 
-* layout structure
-* typography
-* content hierarchy
-* visual storytelling
+I found common problems:
 
-I identified common issues such as cluttered layouts and lack of clear navigation.
+* too much text
+* weak structure
+* confusing navigation
 
----
+I also collected visual references focused on clean layouts and strong images.
 
 ## 🧠 Concept
 
-The concept was based on creating a **calm, gallery-like digital experience**.
+The concept was to create a **calm, gallery-like digital experience**.
 
 The design aims to:
 
-* simulate the feeling of being in a museum
-* emphasize artwork through spacing and composition
-* use minimal but warm visual language
-
----
+* feel like a real museum space
+* highlight artwork through spacing and layout
+* use simple and warm visual language
 
 ## ⚙️ Process
 
 ### 1. Analysis
 
-I explored how users interact with museum websites and identified key content areas:
+I explored how users interact with museum websites and defined key content areas:
 
 * exhibitions
 * artist biography
 * ticket purchase
 * contact information
 
----
-
 ### 2. Definition
 
-I structured the content into clear sections and defined the main user flow:
+I structured the content into clear sections and defined a simple user flow:
 
 * landing → exploration → deeper content → action (tickets)
 
----
-
 ### 3. Design
 
-I translated the concept into a visual system including layout, typography, and components.
+I turned the concept into a clear visual system using layout, typography, and components.
 
 ---
 
@@ -95,19 +89,20 @@ I translated the concept into a visual system including layout, typography, and 
 
 ### Layout
 
-A clean and structured grid was used to ensure readability and consistency across the website.
+I used a structured grid to keep the layout clear and consistent.
+More space helps reduce clutter and improves focus.
 
 ### Colors
 
-Warm neutral tones were chosen to reflect the atmosphere of a physical gallery and to keep focus on the artwork.
+Warm neutral tones were chosen to reflect a gallery atmosphere and support the artwork.
 
 ### Typography
 
-Elegant serif typography was selected to evoke a cultural and artistic tone.
+A serif font was used for headings, combined with a simple font for body text to improve readability.
 
 ### Imagery
 
-Large, high-quality images are used to create an immersive experience and highlight Van Gogh’s work.
+Large images are used to create a strong visual experience and highlight the artwork.
 
 ---
 
@@ -145,8 +140,6 @@ Large, high-quality images are used to create an immersive experience and highli
 
 ![Biography](./images/biography.png)
 
----
-
 ## 🧪 Additional Screens
 
 ### Overlay / Modal
@@ -161,16 +154,18 @@ Large, high-quality images are used to create an immersive experience and highli
 
 ## 💡 Reflection
 
-Through this project, I learned how to balance visual richness with usability.
-I also improved my ability to structure content and design with intention rather than decoration.
+This project helped me focus on clear and simple design.
 
-This project helped me understand the importance of storytelling in design and how every visual decision should support the overall concept.
+I learned how to:
 
----
+* structure content better
+* reduce visual clutter
+* design with clear intention
 
-## 🔗 Live Preview
+I also understood how important storytelling is in design.
+Every decision should support the overall idea.
 
-[View Project](#)
+In the future, I would improve this project by testing it with real users and working more on accessibility.
 
 ---
 
@@ -180,4 +175,3 @@ This project helped me understand the importance of storytelling in design and h
 * Adobe Photoshop
 * Illustrator
 
----
