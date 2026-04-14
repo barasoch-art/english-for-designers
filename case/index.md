@@ -1,6 +1,6 @@
 # 🎨 Van Gogh Museum – Website Design Case Study
 
-![photo](./images/photo.png)
+![photo](./photo.png)
 
 ## 🟡 Project Overview
 
