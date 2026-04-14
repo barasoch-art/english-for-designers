@@ -1,4 +1,6 @@
-# Van Gogh Museum – Website Design Case Study
+case study - museum Van Gogh
+
+# How can I make it simpler, but still creative?
 
 ![photo](./photo.png)
 
