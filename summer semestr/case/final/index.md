@@ -2,7 +2,7 @@
 
 # How can I make it simpler, but still creative?
 
-![photo](.img/img/photo.png)
+![photo](../img/photo.png)
 
 
 ### Designing an experience inspired by the world of Vincent van Gogh
