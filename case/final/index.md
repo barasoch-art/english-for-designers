@@ -5,7 +5,7 @@
 
 ### Designing an experience inspired by the world of Vincent van Gogh
 
-⬇️ Whole website at the end
+⬇️ The full website can be viewed at the end of the case study.
 
 ## 🟡 Overview
 
@@ -107,7 +107,7 @@ The main objective was to reduce complexity and create a more intuitive browsing
 ![photo](./view.png)
 
 
-# ⚫ Wireframes & Content Structure
+## ⚫ Wireframes & Content Structure
 
 Before creating the final interface, I developed low-fidelity layouts and content structures to test hierarchy and spacing.
 
@@ -125,7 +125,7 @@ The wireframes ensured that the final interface would remain clear and user-frie
 
 # 🟡 Additional Screens
 
-# Ticket Purchase Experience
+## Ticket Purchase Experience
 
 The overlay helps users choose tickets without leaving the page.
 
@@ -137,7 +137,7 @@ After that, users move to a separate page to complete the purchase without distr
 
 ![photo](./overlay.png)
 
-# Form Design
+## Form Design
 
 The form is simple and easy to use, with a focus on clarity and quick interaction.
 
