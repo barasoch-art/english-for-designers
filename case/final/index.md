@@ -39,7 +39,7 @@ I wanted the experience to feel:
 - emotionally driven
 - easy to navigate
 
-![photo](../gallery01.png)
+![photo](./gallery01.png)
 
 The design focuses on:
 
@@ -51,7 +51,7 @@ The design focuses on:
 
 > ⚪ “The goal was to make art feel accessible through simplicity.”
 
-![photo](../gallery02.png)
+![photo](./gallery02.png)
 
 ---
 
@@ -103,7 +103,7 @@ This included:
 
 The main objective was to reduce complexity and create a more intuitive browsing experience.
 
-![photo](../definition.png)
+![photo](./view.png)
 
 
 # ⚫ Wireframes & Content Structure
@@ -134,13 +134,13 @@ This keeps the experience smooth and reduces frustration.
 
 After that, users move to a separate page to complete the purchase without distractions.
 
-![photo](../overlay.png)
+![photo](./overlay.png)
 
 # Form Design
 
 The form is simple and easy to use, with a focus on clarity and quick interaction.
 
-![photo](../form.png)
+![photo](./form.png)
 
 
 # 💡 Reflection
@@ -156,7 +156,7 @@ If I continued this project, I would test it with real users and improve accessi
 
 ---
 
-[Check the prototype](../overlay.png)
+[Check the prototype](https://www.figma.com/design/33pvVdrOXbVfhKUacDYunR/DD_share?node-id=0-1&t=7B3TlRwKlCVCCFKv-1)
 
 ---
 
