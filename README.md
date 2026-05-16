@@ -15,15 +15,15 @@ Here you can explore my portfolio — enjoy! 🧚‍♀️
 ---
 
 ## 🍎 Homeworks - winter
-- [HW 1: Character](character/index.md)
-- [HW 2: Alt text](alt-text/index.md)
-- [HW 3: Self presentation](self-presentation/index.md)
-- [HW 4: Business Card](card/index.md)
-- [HW 5: First Impressions](hand-shake/index.md)
+- [HW 1: Character](winter semestr/character/index.md)
+- [HW 2: Alt text](winter semestr/alt-text/index.md)
+- [HW 3: Self presentation](winter semestr/self-presentation/index.md)
+- [HW 4: Business Card](winter semestr/card/index.md)
+- [HW 5: First Impressions](winter semestr/hand-shake/index.md)
 
 ---
 
 ## 🍎 Homeworks - summer
-- [HW 1: What I learn today...](what/index.md)
-- [HW 2: Case study](case/index.md)
-- [HW 3: Storytelling](final/index.md)
+- [HW 1: What I learn today...](summer semestr/tosay-learn/index.md)
+- [HW 2: Case study](summer semestr/case/index.md)
+- [HW 3: Storytelling](summer semestr/final/index.md)

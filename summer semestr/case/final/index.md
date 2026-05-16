@@ -1,6 +1,6 @@
 # How can I make it simpler, but still creative?
 
-![photo](../photo.png)
+![photo](.img/img/photo.png)
 
 
 ### Designing an experience inspired by the world of Vincent van Gogh
@@ -16,7 +16,7 @@ I wanted the website to feel as thoughtful and emotional as the artwork, while s
 
 Users can explore artworks, exhibitions, and key information in a simple and natural way.
 
-![photo](./gallery03.png)
+![photo](img/gallery03.png)
 
 ## 🔴 Problem
 
@@ -40,7 +40,7 @@ I wanted the experience to feel:
 - emotionally driven
 - easy to navigate
 
-![photo](./gallery01.png)
+![photo](img/gallery01.png)
 
 The design focuses on:
 
@@ -52,7 +52,7 @@ The design focuses on:
 
 > ⚪ “The goal was to make art feel accessible through simplicity.”
 
-![photo](./gallery02.png)
+![photo](img/gallery02.png)
 
 ---
 
@@ -104,7 +104,7 @@ This included:
 
 The main objective was to reduce complexity and create a more intuitive browsing experience.
 
-![photo](./view.png)
+![photo](img/view.png)
 
 
 ## ⚫ Wireframes & Content Structure
@@ -135,13 +135,13 @@ This keeps the experience smooth and reduces frustration.
 
 After that, users move to a separate page to complete the purchase without distractions.
 
-![photo](./overlay.png)
+![photo](img/overlay.png)
 
 ## Form Design
 
 The form is simple and easy to use, with a focus on clarity and quick interaction.
 
-![photo](./form.png)
+![photo](img/form.png)
 
 
 # 💡 Reflection
@@ -165,6 +165,6 @@ Bára Sochorová | whimsical designer | [Portfolio](https://sochorova.myportfoli
 
 ---
 
-![photo](./page.png)
+![photo](img/page.png)
 
 
