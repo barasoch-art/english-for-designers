@@ -5,7 +5,7 @@ description: ""
 image: ""
 ---
 
-[⬅️ go back](../README.md)
+[⬅️ go back](../../README.md)
 
 # Character 🩵
 
