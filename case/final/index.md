@@ -15,7 +15,7 @@ I wanted the website to feel as thoughtful and emotional as the artwork, while s
 
 Users can explore artworks, exhibitions, and key information in a simple and natural way.
 
-![photo](../gallery03.png)
+![photo](./gallery03.png)
 
 ## 🔴 Problem
 
