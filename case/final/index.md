@@ -5,6 +5,7 @@
 
 ### Designing an experience inspired by the world of Vincent van Gogh
 
+⬇️ Whole website at the end
 
 ## 🟡 Overview
 
@@ -154,10 +155,16 @@ I learned how to:
 
 If I continued this project, I would test it with real users and improve accessibility.
 
----
 
 [Check the prototype](https://www.figma.com/design/33pvVdrOXbVfhKUacDYunR/DD_share?node-id=0-1&t=7B3TlRwKlCVCCFKv-1)
+
 
 ---
 
 Bára Sochorová | whimsical designer | [Portfolio](https://sochorova.myportfolio.com/)
+
+---
+
+![photo](./page.png)
+
+
