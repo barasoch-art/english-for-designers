@@ -142,21 +142,6 @@ The form is simple and easy to use, with a focus on clarity and quick interactio
 
 ![photo](../form.png)
 
-# 🟡 What I Learned
-
-This project helped me better understand the relationship between aesthetics and usability.
-
-I learned how to:
-
-- simplify complex information  
-- improve visual hierarchy  
-- create more intuitive user flows  
-- combine storytelling with UX principles  
-- maintain consistency across larger interfaces
-
-The project also showed me how important emotional experience can be when designing digital products for cultural institutions.
-
----
 
 # 💡 Reflection
 This project helped me focus on clear and simple design.
@@ -171,7 +156,7 @@ If I continued this project, I would test it with real users and improve accessi
 
 ---
 
-[Check my prototype](../overlay.png)
+[Check the prototype](../overlay.png)
 
 ---
 
