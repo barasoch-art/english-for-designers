@@ -2,7 +2,7 @@ case study - museum Van Gogh
 
 # How can I make it simpler, but still creative?
 
-![photo](./photo.png)
+![photo](../photo.png)
 
 ## 🟡 Project Overview
 
@@ -148,7 +148,7 @@ Large images help create a strong visual experience and keep the focus on the ar
 
 ### Homepage
 
-![Homepage](./homepage.png)
+![Homepage](../homepage.png)
 
 The homepage gives a clear starting point and introduces the museum.
 
@@ -156,7 +156,7 @@ The homepage gives a clear starting point and introduces the museum.
 
 ### Exhibition Section
 
-![Exhibitions](./exhibitions.png)
+![Exhibitions](../exhibitions.png)
 
 This section presents artworks in a clear and structured way.
 
@@ -164,7 +164,7 @@ This section presents artworks in a clear and structured way.
 
 ### Biography Section
 
-![Biography](./biography.png)
+![Biography](../biography.png)
 
 This section tells the artist’s story in a simple and engaging format.
 
@@ -174,7 +174,7 @@ This section tells the artist’s story in a simple and engaging format.
 
 ### Overlay / Modal
 
-![Overlay](./overlay.png)
+![Overlay](../overlay.png)
 
 The overlay helps users choose tickets without leaving the page.
 
@@ -189,7 +189,7 @@ After that, users move to a separate page to complete the purchase without distr
 
 ### Form Design
 
-![Form](./form.png)
+![Form](../form.png)
 
 The form is simple and easy to use, with a focus on clarity and quick interaction.
 
