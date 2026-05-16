@@ -81,10 +81,10 @@ The first phase focused on understanding the common problems of museum websites 
 
 Key findings included:
 
-⚫ users need quick orientation  
-🟡 navigation should remain predictable  
-⚪ artwork should remain the main focus  
-⚫ content needs stronger visual hierarchy
+- users need quick orientation  
+- navigation should remain predictable  
+- artwork should remain the main focus  
+- content needs stronger visual hierarchy
 
 This phase helped establish the UX direction of the project.
 
