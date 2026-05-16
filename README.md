@@ -24,6 +24,6 @@ Here you can explore my portfolio — enjoy! 🧚‍♀️
 ---
 
 ## 🍎 Homeworks - summer
-- [HW 1: What I learn today...](summer semestr/tosay-learn/index.md)
+- [HW 1: What I learn today...](summer semestr/today-learn/index.md)
 - [HW 2: Case study](summer semestr/case/index.md)
 - [HW 3: Storytelling](summer semestr/final/index.md)
